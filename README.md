@@ -269,7 +269,7 @@ smart-energy-data-platform/
 └── images/
     ├── monthly_energy_trend.png
     ├── building_energy_comparison.png
-    └── additional_visualisation.png
+    └── weekday_weekend_comparison.png
 ```
 
 The dataset does not need to be stored separately because it is generated reproducibly within the notebook.
